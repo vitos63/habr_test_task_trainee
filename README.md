@@ -1,6 +1,6 @@
 Клонирование репозитория
 
-  git clone https://github.com/vitos_63/bunker
+  ```git clone https://github.com/vitos_63/bunker```
 
 Пример работы программы:
 
